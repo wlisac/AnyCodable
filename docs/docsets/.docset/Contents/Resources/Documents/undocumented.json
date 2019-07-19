@@ -1,0 +1,138 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyCodable.swift",
+      "line": 17,
+      "symbol": "AnyCodable.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyCodable.swift",
+      "line": 19,
+      "symbol": "AnyCodable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyDecodable.swift",
+      "line": 32,
+      "symbol": "AnyDecodable.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyDecodable.swift",
+      "line": 34,
+      "symbol": "AnyDecodable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyDecodable.swift",
+      "line": 46,
+      "symbol": "_AnyDecodable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyDecodable.swift",
+      "line": 47,
+      "symbol": "_AnyDecodable.init(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 30,
+      "symbol": "AnyEncodable.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 32,
+      "symbol": "AnyEncodable.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 47,
+      "symbol": "_AnyEncodable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 48,
+      "symbol": "_AnyEncodable.encode(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 166,
+      "symbol": "_AnyEncodable",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 167,
+      "symbol": "_AnyEncodable.init(nilLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 171,
+      "symbol": "_AnyEncodable.init(booleanLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 175,
+      "symbol": "_AnyEncodable.init(integerLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 179,
+      "symbol": "_AnyEncodable.init(floatLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 183,
+      "symbol": "_AnyEncodable.init(extendedGraphemeClusterLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 187,
+      "symbol": "_AnyEncodable.init(stringLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 191,
+      "symbol": "_AnyEncodable.init(arrayLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/will/sn/IoT/AnyCodable/Sources/AnyCodable/AnyEncodable.swift",
+      "line": 195,
+      "symbol": "_AnyEncodable.init(dictionaryLiteral:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/will/sn/IoT/AnyCodable"
+}
